@@ -1,6 +1,6 @@
 ## Maxwell Xavier
 
--  Primeiro semestre da faculdade de Ciência da Computação
+-  Primeiro semestre da faculdade de Ciência da Computação pela Universidade Potiguar (UNP)
 -  Estudando tecnologias .NET
 -  Pode me contatar via Gmail: maxwelldearaujo1017@gmail.com
 
